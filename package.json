@@ -59,7 +59,7 @@
     "url-loader": "0.5.9",
     "webpack": "4.29.0",
     "webpack-dashboard": "^2.1.0",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "4.7.3",
     "webpack-manifest-plugin": "1.2.1",
     "whatwg-fetch": "2.0.3",
     "snyk": "^1.316.1"
